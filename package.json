@@ -1,0 +1,12 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "latest",
+    "cllc": "^1.1.2",
+    "https": "^1.0.0",
+    "request": "^2.88.0",
+    "tress": "^1.1.4",
+    "uuid": "^3.3.3"
+  }
+}
